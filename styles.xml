@@ -1,0 +1,13 @@
+<resources>
+    <color name="maroon">#780F20</color>
+    <color name="gold">#E7A52A</color>
+    <color name="cream">#FFF8EA</color>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#A51D2D</item>
+        <item name="android:statusBarColor">#650B1A</item>
+        <item name="android:navigationBarColor">#650B1A</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/cream</item>
+    </style>
+</resources>
